@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "lib": ["ESNext"],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "skipLibCheck": true,
+    "target": "ESNext"
+  },
+  "files": ["file.ts"]
+}
